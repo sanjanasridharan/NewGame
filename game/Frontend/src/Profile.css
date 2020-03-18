@@ -1,0 +1,40 @@
+.wrapper{
+    display:grid;
+    grid-template-columns:0.4fr 0.4fr 0.58fr;
+    grid-gap:1em;
+    margin-top:60px;
+    margin-left:150px;
+    margin-right:30px;
+    margin-bottom: 0px;
+  }
+
+  .box1{
+    border-radius: 25px;
+    grid-row: 1/4;
+    width: 350px;
+  }
+
+  .box2{
+    border-radius: 25px;
+    grid-column: auto;
+    width: 800px;
+  }
+
+  .box3{
+      grid-column: 3;
+      border-radius: 25px;
+      
+  }
+
+  .box4{
+    grid-column: 2/4;
+      border-radius: 25px;
+  }    
+  
+  .box5
+  {
+    grid-column: 2/4;
+    grid-row: 3;
+    border-radius: 25px;
+  }
+    

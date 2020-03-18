@@ -1,0 +1,20 @@
+.wrapper1{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    grid-gap:1em;
+   
+  }
+
+  .boxx1{
+    
+ 
+ grid-column: 1;
+  }
+
+  .boxx2{
+    
+   
+    grid-column:2;
+ 
+  }
+  

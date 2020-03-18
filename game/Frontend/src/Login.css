@@ -1,0 +1,8 @@
+.Login {
+    background-image:  url("https://m.media-amazon.com/images/G/31/AmazonVideo/2019/1102620_MLP_1440x675_apv189_V3._SY1200_FMJPG_.jpg");
+    height: 880px; 
+    background-position: right bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: linear-gradient(to right, #000 40%, transparent 58%)
+}

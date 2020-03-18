@@ -1,0 +1,11 @@
+.media
+{
+    /* background-image: url("http://osm.cloud/Images/Shared/icons/bosscoin.svg?v=11"); */
+    height:40px;
+    width:40px;
+    /* background-size: cover;
+    background-repeat: no-repeat; */
+    /* src: url("http://osm.cloud/Images/Shared/icons/bosscoin.svg?v=11"); */
+    object-fit:auto;
+    margin-top:5px;
+}

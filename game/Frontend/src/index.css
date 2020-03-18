@@ -1,0 +1,23 @@
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+#_2KTV2l {
+  display:inline-block;
+  overflow:hidden;
+  z-index:0;
+  --webkit-transition:opacity $lincoln-transition-duration linear 0s;
+  --moz-transition:opacity $lincoln-transition-duration linear 0s;
+  --o-transition:opacity $lincoln-transition-duration linear 0s;
+  transition:opacity .3s linear 0s;
+  object-fit:cover;
+  }
+
+#tableprop {
+  width: 100%;
+  height: 70px;
+  background: rgba(0, 168, 232, 0.79);
+  text-align: center;
+  border-radius: 5px 5px 0 0;
+}

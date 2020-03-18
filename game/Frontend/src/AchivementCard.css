@@ -1,0 +1,18 @@
+.rowC{display:flex; flex-direction:row;justify-content: center;}
+.background1
+{
+    background-image: url("https://gamipress.com/wp-content/uploads/2018/11/icon-achievements.svg");
+    margin-left: 30px;
+    height:125px;
+    width:120px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.background2{
+    background-image: url("./assets/27518349.jpg");
+    margin-left: 30px;
+    height:125px;
+    width:120px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
